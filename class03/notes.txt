@@ -1,0 +1,3 @@
+2D lines, talk about the axis lines. Pythagoras theorem. Talk about a distance of a line (norm) and unit norm and stretching a line. Call a line a vector. Talk about line equation and span equation. Talk about projection in 2D (w1,w2) is orthgonal to (w2,-w1). The distance of a line and a point (line through the origin). 
+Take forest/urban images from HW. Explain RGB and come up with a strategy to 1D seperation of forest vs. urban. Write down the results on the board and see if it gets to seperation. Also do it with the second color channel. Then go to 2D seperation and hope it seperates. Try to come up with a line to seperate. prepare SVM
+
