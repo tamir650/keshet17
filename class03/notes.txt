@@ -1,4 +1,4 @@
-2D lines, talk about the axis lines. Talk about vectors, lines, line equation (hyperplane) the positive halfspace (start with the space (1,0), (0,1), (1,1), homework give them to realize (-1,1)) and the negative. Show the vector w direction is to the positive halfspace.  
+2D lines, talk about the axis lines. Talk about vectors, lines, line equation (hyperplane) the positive halfspace (start with the space (1,0), (0,1), (1,1), homework give them to realize (-1,1)) and the negative. Talk about perpendicular vectors, inner product is zero. Show the vector w direction is to the positive halfspace. 
 
 
 
