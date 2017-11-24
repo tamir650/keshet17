@@ -1,7 +1,18 @@
-2D lines, talk about the axis lines. Talk about vectors, lines, line equation (hyperplane) the positive halfspace (start with the space (1,0), (0,1), (1,1), homework give them to realize (-1,1)) and the negative. Talk about perpendicular vectors, inner product is zero. Show the vector w direction is to the positive halfspace. 
+Take forest/urban images from HW. Explain RGB and come up with a strategy to 1D seperation of forest vs. urban. Write down the results on the board and see if it gets to seperation. Also do it with the second color channel. Then go to 2D seperation and hope it seperates. Try to come up with a line to seperate. p
+
+2D lines, talk about the axis lines. Talk about vectors, lines, 
+
+
+
+line equation (hyperplane) the positive halfspace (start with the space (1,0), (0,1), (1,1), homework give them to realize (-1,1)) and the negative. Talk about perpendicular vectors, start with (1,1) and (-1,1) as an exampple, then (2,1),(-1,2) as an example, and then (x1,x2), (-x2,x1).  inner product is zero.  Show the vector w direction is to the positive halfspace. talk about angle between point and the normal to the seperating hyperplane. Show that the angle is less than 90 for the positive side.  
+
+
+there are two dual reprensetations of a line \alpha z or normal to z. Either extend on this or stick to normal representaiton.  
+
+
+Pythagoras theorem. norm of a vector. Start describing how to compute an consine of angle. first between x1,x2 and (0,1). then between x1,x2 and z1,z2. find the right triable and relate it to the closest point on the line. Work on it as a quadratic function in one variable and relate the inner product to consine angle
 
 
 
 This eventually will be class 05:  Pythagoras theorem. Talk about a distance of a line (norm) and unit norm and stretching a line. Call a line a vector. Talk about line equation and span equation. Talk about projection in 2D (w1,w2) is orthgonal to (w2,-w1). The distance of a line and a point (line through the origin). 
-Take forest/urban images from HW. Explain RGB and come up with a strategy to 1D seperation of forest vs. urban. Write down the results on the board and see if it gets to seperation. Also do it with the second color channel. Then go to 2D seperation and hope it seperates. Try to come up with a line to seperate. prepare SVM
 
