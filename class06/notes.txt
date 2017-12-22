@@ -1,0 +1,13 @@
+
+
+Pythagoras theorem. norm of a vector. Explain how we the perceptron algorithm improves prediction. 
+
+
+preparing to explain the notion of confidence of prediction. 
+Talk about a distance of a line (norm) and unit norm and stretching a line. Call a line a vector. Talk about line equation and span equation. Talk about projection in 2D (w1,w2) is orthgonal to (w2,-w1). The distance of a line and a point (line through the origin).
+
+Start describing how to compute an consine of angle. first between x1,x2 and (0,1). then between x1,x2 and z1,z2. find the right triable and relate it to the closest point on the line. Work on it as a quadratic function in one variable and relate the inner product to consine angle
+
+
+
+
