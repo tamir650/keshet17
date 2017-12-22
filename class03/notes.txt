@@ -1,3 +1,5 @@
+this complements HW02 notebook
+------------------------------
 Take forest/urban images from HW. Explain RGB and come up with a strategy to 1D seperation of forest vs. urban. Write down the results on the board and see if it gets to seperation. Also do it with the second color channel. Then go to 2D seperation and hope it seperates. Try to come up with a line to seperate. p
 
 2D lines, talk about the axis lines. Talk about vectors, lines, 
