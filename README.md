@@ -8,7 +8,7 @@ Download the repository
     git clone https://github.com/tamir650/keshet17
 
 
-To install virtualenv on your computer (this may require running with `sudo`):
+To install virtualenv on your computer using terminal (this may require running with `sudo`):
 
     pip install virtualenv
 
