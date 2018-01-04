@@ -14,7 +14,7 @@ To create a new virtualenv named `.venv` in the `analytics` work directory:
 
 Activate the new virtualenv:
 
-    source virtual_environment/introduction_to_data_scienc/bin/activate
+    source ~/virtual_environment/introduction_to_data_science/bin/activate
 
 To install the dependencies:
 
