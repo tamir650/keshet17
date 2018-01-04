@@ -2,6 +2,12 @@
 
 ## Installation
 
+Download the repository
+
+    Download as zip file from the green button on hte top right area or use git:  
+    git clone https://github.com/tamir650/keshet17
+
+
 To install virtualenv on your computer (this may require running with `sudo`):
 
     pip install virtualenv
