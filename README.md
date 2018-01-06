@@ -12,7 +12,7 @@ To install virtualenv on your computer using terminal (this may require running 
 
     pip install virtualenv
 
-To create a new virtualenv named `.venv` in the `analytics` work directory:
+To create a new virtualenv introduction_to_data_science in the ~/virtual_environment work directory:
 
     mkdir ~/virtual_environment
 
