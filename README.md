@@ -12,11 +12,21 @@ To install virtualenv on your computer using terminal (this may require running 
 
     pip install virtualenv
 
-To create a new virtualenv introduction_to_data_science in the ~/virtual_environment work directory:
+OR
+
+    pip install --install-option="--prefix=$HOME/local" virtualenv
+
+To create a new virtual enviroment directory:
 
     mkdir ~/virtual_environment
 
+To create a new virtualenv introduction_to_data_science in the ~/virtual_environment work directory (when virtualenv is not in the local directory):
+
     virtualenv ~/virtual_environment/introduction_to_data_science
+
+OR
+
+    $HOME/local/virtualenv ~/virtual_environment/introduction_to_data_science
 
 Activate the new virtualenv:
 
