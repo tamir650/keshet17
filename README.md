@@ -36,3 +36,8 @@ To install the dependencies:
 
     pip install -r requirements.txt
 
+To work on the notebook type:
+
+    jupyter notebook
+
+
