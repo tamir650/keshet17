@@ -282,6 +282,37 @@
    },
    "outputs": [],
    "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true,
+    "deletable": true,
+    "editable": true
+   },
+   "outputs": [],
+   "source": [
+    "from sklearn import svm\n",
+    "\n",
+    "classifier = svm.SVC(kernel='linear')\n",
+    "classifier.fit(x,y)\n",
+    "\n",
+    "w = classifier.coef_[0]\n",
+    "w / np.linalg.norm(w)\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true,
+    "deletable": true,
+    "editable": true
+   },
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
